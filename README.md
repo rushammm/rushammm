@@ -1,4 +1,4 @@
-# 🌸 Hello, World! I'm Rusham 👩‍💻
+# 🌸 Hello! I'm Rusham 👩‍💻
 
 Welcome to my GitHub profile!  
 I'm a Computer Science student with a passion for tech, creativity, and making cool stuff. ✨
