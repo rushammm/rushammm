@@ -1,41 +1,42 @@
-# 🌸 Hello! I'm Rusham 👩‍💻
+# hello! i'm Rusham 👩‍💻
 
-Welcome to my GitHub profile!  
-I'm a Computer Science student with a passion for tech, creativity, and making cool stuff. ✨
-
----
-
-## 💡 About Me
-- 🎓 CS Student | Lifelong Learner  
-- 💻 Frontend Dev + Backend Dabbler  
-- 🧠 Curious about AI and Web Dev  
-- 🌍 Currently exploring the intersection of tech and sustainability  
+welcome to my GitHub profile!  
+I'm a fresh CS graduate with a passion for tech, creativity, and making cool stuff. 
 
 ---
 
-## 🛠️ Tech Stack
-- 🌐 HTML | CSS | JavaScript 
-- ⚛️ Next.js | Tailwind CSS  
-- 🐍 Python | Node.js  
-- 🗄️ Firebase | PostgreSQL  
-- 🌍 GIS | Remote Sensing | Google Earth Engine  
+## about me: 
+-  CS Student | Lifelong Learner  
+-  frontend dev + backend dabbler ( figuring out everything all at once )  
+-  curious about AI and web dev  
+-  currently exploring the intersection of tech and sustainability  
 
 ---
 
-## 📚 Currently Learning
-- 🧠 Machine Learning
-- 🧭 Building full-stack apps with Next.js 14  
+## tech stack
+-  HTML | CSS | JavaScript 
+-  Next.js | Tailwind CSS  
+-  Python | Node.js  
+-  Firebase | PostgreSQL  
+-  GIS | Remote Sensing | Google Earth Engine  
 
 ---
 
-## 💌 Let's Connect!
+## currently learning
+-  machine Learning
+-  building full-stack apps with Next.js 14
+-  data analytics
+
+---
+
+## 💌 let's connect!
 - 📧 [(https://www.linkedin.com/in/rusham-elahi-38511a229/)] 
 
 ---
 
 
-Thanks for stopping by! 😊  
-Let's build something awesome together! 🚀
+thanks for stopping by! 
+let's build something awesome together! 🚀
 
 
 ## 🌐 Socials:
