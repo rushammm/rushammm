@@ -6,7 +6,7 @@ I'm a fresh CS graduate with a passion for tech, creativity, and making cool stu
 ---
 
 ## about me: 
--  CS Student | Lifelong Learner  
+-  CS grad | lifelong learner  
 -  frontend dev + backend dabbler ( figuring out everything all at once )  
 -  curious about AI and web dev  
 -  currently exploring the intersection of tech and sustainability  
