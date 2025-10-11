@@ -3,7 +3,6 @@
 welcome to my GitHub profile!  
 I'm a fresh CS graduate with a passion for tech, creativity, and making cool stuff. 
 
----
 
 ## about me: 
 -  CS grad | lifelong learner  
@@ -11,7 +10,6 @@ I'm a fresh CS graduate with a passion for tech, creativity, and making cool stu
 -  curious about AI and web dev  
 -  currently exploring the intersection of tech and sustainability  
 
----
 
 ## enjoying working with
 -  HTML | CSS | JavaScript 
@@ -20,20 +18,13 @@ I'm a fresh CS graduate with a passion for tech, creativity, and making cool stu
 -  Supabase| PostgreSQL 
 -  GIS | Remote Sensing | Google Earth Engine  
 
----
-
 ## currently learning
 -  machine Learning
 -  building full-stack apps with Next.js 14
 -  data analytics
 
----
-
 ## 💌 let's connect!
 - 📧 [(https://www.linkedin.com/in/rusham-elahi-38511a229/)] 
-
----
-
 
 thanks for stopping by! 
 let's build something awesome together! 🚀
