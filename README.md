@@ -13,11 +13,11 @@ I'm a fresh CS graduate with a passion for tech, creativity, and making cool stu
 
 ---
 
-## tech stack
+## enjoying working with
 -  HTML | CSS | JavaScript 
--  Next.js | Tailwind CSS  
+-  Next.js | React | Tailwind CSS  
 -  Python | Node.js  
--  Firebase | PostgreSQL  
+-  Supabase| PostgreSQL 
 -  GIS | Remote Sensing | Google Earth Engine  
 
 ---
@@ -42,7 +42,8 @@ let's build something awesome together! 🚀
 ## socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rusham-elahi-38511a229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elahirusham@gmail.com) 
 
-# tech stack:![C++](https://img.shields.io/badge/c++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# tech stack:
+![C++](https://img.shields.io/badge/c++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-0A0A0A?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
