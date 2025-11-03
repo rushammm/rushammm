@@ -5,7 +5,7 @@
 
 
 ### my socials 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rusham-elahi-38511a229/" target="_blank">LinkedIn</a> • 
   <a href="mailto:elahirusham@gmail.com">Email</a>
 </p>
