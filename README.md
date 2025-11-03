@@ -61,9 +61,12 @@ let's build something awesome together! 🚀
 ![Matplotlib](https://img.shields.io/badge/matplotlib-0A0A0A?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 # github stats:
-![](https://github-readme-stats.vercel.app/api?username=rushammm&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rushammm&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushammm&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=rushammm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=rushammm&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushammm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## github trophies
 ![](https://github-profile-trophy.vercel.app/?username=rushammm&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
