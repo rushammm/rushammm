@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1>Hey, I'm Rusham</h1>
 <h3>AI Researcher & Full-Stack Developer</h3>
+<p>learning new things every single day</p>
 
 
 ### my socials 
