@@ -1,9 +1,6 @@
 <!-- Profile Header -->
 <h1>Hey, I'm Rusham</h1>
 <h3>AI Researcher & Full-Stack Developer</h3>
-<p>
-  Passionate about building elegant digital experiences — from minimal, premium Shopify stores to full-stack web apps powered by modern frameworks and AI tools.
-</p>
 
 
 ### my socials 
