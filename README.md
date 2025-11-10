@@ -42,8 +42,6 @@
 - **Flood Impact Analysis** — CNN-based infrastructure detection in flood zones using Google Earth Engine (442,000 km² analyzed)
 - **Habby** — Habit tracking app helping users build and maintain daily routines with streak tracking and progress visualization
 
-*(More projects coming soon...)*
-
 ---
 
 ### stats
