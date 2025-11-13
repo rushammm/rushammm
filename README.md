@@ -4,7 +4,7 @@
 <p>I build stuff with code, design, and a bit of AI </p>
 
 
-### my socials 
+### connect with me  
 <p>
   <a href="https://www.linkedin.com/in/rusham-elahi-38511a229/" target="_blank">LinkedIn</a> • 
   <a href="mailto:elahirusham@gmail.com">Email</a>
