@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logoColor=white" alt="Neon"/>
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logoColor=white" alt="LiveKit"/>
   <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=white" alt="Vapi"/>
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
