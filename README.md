@@ -46,8 +46,6 @@
 
 ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)<br/>
 
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rushammm&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
