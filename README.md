@@ -44,6 +44,12 @@
 
 <div align="center">
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushammm&show_icons=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rushammm&theme=dark)
+
 ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)<br/>
 
 
