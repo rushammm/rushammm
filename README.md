@@ -44,11 +44,11 @@
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushammm)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushammm&show_icons=true)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rushammm&theme=dark)
 
 ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)<br/>
 
