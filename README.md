@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1>Hey, I'm Rusham Elahi</h1>
+<h1> hey, i'm Rusham Elahi</h1>
 <h3>AI Researcher & Full-Stack Developer</h3>
-<p>I build stuff with code, design, and a bit of AI </p>
+<p>i build stuff with code, design, and a bit of AI </p>
 
 
 ### connect with me  
