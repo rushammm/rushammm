@@ -4,7 +4,7 @@ cs grad · ml · geo · ships code
 [linkedin](https://www.linkedin.com/in/rusham-elahi-38511a229/) · [email](mailto:elahirusham@gmail.com) · [portfolio](https://rusham.dev/) ·
  [dblp](https://dblp.org/pid/387/8235.html)                                                                                                               
   
-  ---
+
 
   ## projects
 
@@ -21,21 +21,20 @@ cs grad · ml · geo · ships code
 
   **placify** — internship management platform (t3 stack) connecting students, companies & universities · [live](https://placify-iota.vercel.app/)
 
-  ---
 
-  ### tools i use
+
+  ## tools i use
 
   `python` `typescript` `javascript` `sql` `next.js` `react` `node.js` `tailwind`
   `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas`
   `google earth engine` `qgis` `postgresql` `git`
 
-  ---
-
-  ### currently
+ 
+  ## currently
 
   graduated · shipped a research paper · now looking for what's next
 
-  ---
+
 
   <div align="center">
 
