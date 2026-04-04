@@ -1,59 +1,45 @@
-<!-- Profile Header -->
-<h1> hey, i'm Rusham Elahi</h1>
-<h3>AI Researcher & Full-Stack Developer</h3>
-<p>i build stuff with code, design, and a bit of AI </p>
+## rusham elahi
+cs grad · ml · geo · ships code 
 
+[linkedin](https://www.linkedin.com/in/rusham-elahi-38511a229/) · [email](mailto:elahirusham@gmail.com) · [portfolio](https://rusham.dev/) ·
+  [dblp](https://dblp.org/pid/387/8235.html)                                                                                                               
+  
+  ---
 
-### connect with me  
-<p>
-  <a href="https://www.linkedin.com/in/rusham-elahi-38511a229/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:elahirusham@gmail.com">Email</a>
-</p>
+  ### projects
 
-### tech stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logoColor=white" alt="Neon"/>
-  <img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logoColor=white" alt="LiveKit"/>
-  <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=white" alt="Vapi"/>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+  **healthcare access in south asia** — ml research on healthcare infrastructure gaps across south asia, published at ICONIP 2024 (CORE A) ·
+  [paper](https://arxiv.org/abs/2409.14194)
 
+  **locatepro** — predicts business location suitability using xgboost + satellite imagery (sentinel-1, landsat, google earth engine) ·
+  [live](https://poi-next-app.vercel.app/)
 
-### featured projects
-- **Healthcare Research (ICONIP24)** — Published AI/ML paper on data-driven healthcare access assessment in South Asia | [Read Paper](https://arxiv.org/abs/2409.14194)
-- **LocatePro** — Geospatial ML tool predicting optimal business locations using XGBoost & satellite imagery (80% accuracy) | [Live Demo](https://poi-next-app.vercel.app/)
-- **Placify** — T3 Stack internship management platform connecting students, companies & universities | [Live Demo](https://placify-iota.vercel.app/)
-- **Flood Impact Analysis** — CNN-based infrastructure detection in flood zones using Google Earth Engine (442,000 km² analyzed)
-- **Habby** — Habit tracking app helping users build and maintain daily routines with streak tracking and progress visualization
+  **medtracker pk** — scrapes pharmacy prices, flags anomalies against drap-regulated prices, predicts stock-outs ·
+  [live](https://medtracker-pk.streamlit.app/)
 
----
+  **flood impact analysis** — mapped 442,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
 
-<div align="center">
+  **placify** — internship management platform (t3 stack) connecting students, companies & universities · [live](https://placify-iota.vercel.app/)
 
+  ---
 
+  ### tools i use
 
-![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)<br/>
+  `python` `typescript` `javascript` `sql` `next.js` `react` `node.js` `tailwind`
+  `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas`
+  `google earth engine` `qgis` `postgresql` `git`
 
+  ---
 
-</div>
+  ### currently
 
----
+  graduated · shipped a research paper · now looking for what's next
 
-### about me
-- currently exploring **AI Voice Agents** with **LiveKit** and **Vapi**
-- published researcher at **ICONIP24** on healthcare AI/ML
-- passionate about **AI Tools + Full Stack Development**
-- based in **Lahore, Pakistan**
-- goal: Build modern, scalable digital products that blend **design + intelligence**
+  ---
+
+  <div align="center">
+
+  ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)
+
+  </div>
+
