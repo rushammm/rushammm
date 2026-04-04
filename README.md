@@ -2,11 +2,11 @@
 cs grad · ml · geo · ships code 
 
 [linkedin](https://www.linkedin.com/in/rusham-elahi-38511a229/) · [email](mailto:elahirusham@gmail.com) · [portfolio](https://rusham.dev/) ·
-  [dblp](https://dblp.org/pid/387/8235.html)                                                                                                               
+ [dblp](https://dblp.org/pid/387/8235.html)                                                                                                               
   
   ---
 
-  ### projects
+  ## projects
 
   **healthcare access in south asia** — ml research on healthcare infrastructure gaps across south asia, published at ICONIP 2024 (CORE A) ·
   [paper](https://arxiv.org/abs/2409.14194)
