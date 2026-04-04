@@ -32,7 +32,7 @@ cs grad · ml · geo · ships code
  
   ## currently
 
-  graduated · shipped a research paper · now looking for what's next
+ freelancing · learning ml from scratch
 
 
 
