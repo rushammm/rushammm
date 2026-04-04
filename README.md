@@ -10,11 +10,15 @@ cs grad · ml · geo · ships code
 
   **healthcare access in south asia** — ml research on healthcare infrastructure gaps across south asia, published at ICONIP 2024 (CORE A) ·
   [paper](https://arxiv.org/abs/2409.14194)
+  
   **locatepro** — predicts business location suitability using xgboost + satellite imagery (sentinel-1, landsat, google earth engine) ·
   [live](https://poi-next-app.vercel.app/)
+  
   **medtracker pk** — scrapes pharmacy prices, flags anomalies against drap-regulated prices, predicts stock-outs ·
   [live](https://medtracker-pk.streamlit.app/)
+  
   **flood impact analysis** — mapped 442,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
+  
   **placify** — internship management platform (t3 stack) connecting students, companies & universities · [live](https://placify-iota.vercel.app/)
 
 
