@@ -26,7 +26,7 @@ cs grad · ml · geo · ships code
   ## tools i use
 
   `python` `typescript` `javascript` `sql` `next.js` `react` `node.js` `tailwind`
-  `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas`
+  `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas` `numpy`
   `google earth engine` `qgis` `postgresql` `git`
 
  
