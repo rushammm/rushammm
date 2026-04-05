@@ -19,7 +19,7 @@ cs grad · ml · geo · ships code
   
   **flood impact analysis** — mapped 442,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
   
-  **placify** — internship management platform (t3 stack) connecting students, companies & universities · [live](https://placify-iota.vercel.app/)
+  **placify** — internship management platform (t3 stack) connecting students, companies & universities 
 
 
 
