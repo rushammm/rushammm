@@ -41,12 +41,3 @@ cs grad · ml · geo · ships code
   ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)
 
   </div>
-
-
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushammm&theme=github_dark)                                   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushammm&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushammm&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rushammm&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rushammm&theme=github_dark&utcOffset=5)
-
