@@ -1,5 +1,5 @@
 ## rusham elahi
-cs grad · ml · geo · ships code 
+ml · geo · cs grad · open to research roles & freelance
 
 [linkedin](https://www.linkedin.com/in/rusham-elahi-38511a229/) · [email](mailto:elahirusham@gmail.com) · [portfolio](https://rusham.dev/) ·
  [dblp](https://dblp.org/pid/387/8235.html)                                                                                                               
@@ -29,7 +29,7 @@ cs grad · ml · geo · ships code
  
   ## currently
 
- freelancing · learning ml from scratch
+ freelancing · learning ml from scratch · open to research collaborations
 
 
 
