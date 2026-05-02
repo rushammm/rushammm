@@ -14,7 +14,7 @@ cs grad · ml · geo · ships code
   **locatepro** — predicts business location suitability using xgboost + satellite imagery (sentinel-1, landsat, google earth engine) ·
   [live](https://poi-next-app.vercel.app/)
   
-  **flood impact analysis** — mapped 442,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
+  **flood impact analysis** — mapped 224,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
   
   **placify** — internship management platform (t3 stack) connecting students, companies & universities 
 
