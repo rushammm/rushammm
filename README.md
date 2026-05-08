@@ -8,15 +8,15 @@ ml · geo · cs grad · open to research roles & freelance
 
   ## projects
 
-  **healthcare access in south asia** — ml research on healthcare infrastructure gaps across south asia, published at ICONIP 2024 (CORE A) ·
+  **Healthcare access in south asia** — ml research on healthcare infrastructure gaps across south asia, published at ICONIP 2024 (CORE A) ·
   [paper](https://arxiv.org/abs/2409.14194)
   
-  **locatepro** — predicts business location suitability using xgboost + satellite imagery (sentinel-1, landsat, google earth engine) ·
+  **Locatepro** — predicts business location suitability using xgboost + satellite imagery (sentinel-1, landsat, google earth engine) ·
   [live](https://poi-next-app.vercel.app/)
   
-  **flood impact analysis** — mapped 224,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
+  **Flood impact analysis** — mapped 224,000 km² of flood inundation using sentinel-1 SAR, detected infrastructure damage with yolov5
   
-  **placify** — internship management platform (t3 stack) connecting students, companies & universities 
+  **Placify** — internship management platform (t3 stack) connecting students, companies & universities 
 
 
 
