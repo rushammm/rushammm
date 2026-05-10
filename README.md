@@ -21,8 +21,7 @@ author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.10
 **Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree, Random Forest, Gradient Boosting **implemented from scratch in NumPy**, validated 100% against sklearn. RF hits **78.46%** on held-out 2020–2023. ·
 [repo](https://github.com/rushammm/Healthcare-resource-predictor)
 
-**Locatepro** — predicts business location suitability with XGBoost + satellite features (sentinel-1, landsat, google earth engine, NDWI, nighttime    
-light). 12,000+ POIs from google places API. **80%+ accuracy**, deployed. · [live](https://poi-next-app.vercel.app/)
+**Locatepro** — predicts business location suitability with XGBoost + satellite features (sentinel-1, landsat, google earth engine, NDWI, nighttime light). 12,000+ POIs from google places API. **80%+ accuracy**, deployed. · [live](https://poi-next-app.vercel.app/)
 
 **Placify** — internship management platform (t3 stack) connecting students, companies & universities.
 
