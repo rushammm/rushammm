@@ -19,8 +19,7 @@ to detect schools/hospitals in flood zones; QGIS spatial intersection to quantif
 → Mask R-CNN segmentation (**val IoU 0.96**) → homography on a credit card reference for mm scale. ·
 [repo](https://github.com/rushammm/xis-assessment-public)
 
-**Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree, Random  
-Forest, Gradient Boosting **implemented from scratch in NumPy**, validated 100% against sklearn. RF hits **78.46%** on held-out 2020–2023. ·
+**Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree, Random Forest, Gradient Boosting **implemented from scratch in NumPy**, validated 100% against sklearn. RF hits **78.46%** on held-out 2020–2023. ·
 [repo](https://github.com/rushammm/Healthcare-resource-predictor)
 
 **Locatepro** — predicts business location suitability with XGBoost + satellite features (sentinel-1, landsat, google earth engine, NDWI, nighttime    
