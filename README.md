@@ -36,12 +36,11 @@ author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.10
   `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas` `numpy`
   `google earth engine` `qgis` `postgresql` `git`
 
-  open to ml engineering / research roles · published at ICONIP 2024 · based in Pakistan, open to remote
-
-
 
   <div align="center">
 
   ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)
 
   </div>
+
+  open to ml engineering / research roles · published at ICONIP 2024 · based in Pakistan, open to remote
