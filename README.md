@@ -16,9 +16,10 @@ author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.10
 
 ## projects
 
+**Khabar** — Pakistani news voice agent. you speak, it fetches Dawn headlines and reads them back over a live voice session. Next.js frontend + Python agent on the LiveKit Agents framework; Groq for STT (whisper-large-v3), LLM (llama-3.3-70b), and TTS in one provider. tool-calling for headlines / detail / category filter, with custom rate-limit + interruption rails to keep playback clean. · [repo](https://github.com/rushammm/khabar)
 **Vision-metric** — measures real-world width/height (mm) of a notebook from a single phone photo. iPhone 12 calibration (0.085 px reprojection error) 
 → Mask R-CNN segmentation (**val IoU 0.96**) → homography on a credit card reference for mm scale. ·
-[repo](https://github.com/rushammm/xis-assessment-public)
+[repo](https://github.com/rushammm/vision-metric)
 
 **Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree, Random Forest, Gradient Boosting **implemented from scratch in NumPy**, validated 100% against sklearn. RF hits **78.46%** on held-out 2020–2023. ·
 [repo](https://github.com/rushammm/Healthcare-resource-predictor)
