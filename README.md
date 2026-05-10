@@ -26,10 +26,7 @@ ml · geo · cs grad · open to research roles & freelance
   `scikit-learn` `tensorflow` `pytorch` `xgboost` `pandas` `numpy`
   `google earth engine` `qgis` `postgresql` `git`
 
- 
-  ## currently
-
- freelancing · learning ml from scratch · open to research collaborations
+  open to ml engineering / research roles · published at ICONIP 2024 · based in Pakistan, open to remote
 
 
 
