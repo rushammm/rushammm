@@ -27,7 +27,7 @@ author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.10
 
 **Locatepro** — predicts business location suitability with XGBoost + satellite features (sentinel-1, landsat, google earth engine, NDWI, nighttime light). 12,000+ POIs from google places API. **80%+ accuracy**, deployed. · [live](https://poi-next-app.vercel.app/)
 
-**Placify** — internship management platform (t3 stack) connecting students, companies & universities.
+**Placify** —   a full-stack platform connecting students with companies. Students browse, filter, and apply to internships; companies post listings and manage applicants; admins verify companies and resolve disputes. Role-based access, in-app notifications, and a custom responsive design system. [live](https://placify-iota.vercel.app) 
 
 
 ## tools i use
