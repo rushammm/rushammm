@@ -16,19 +16,17 @@ author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.10
 
 ## projects
 
-**Khabar** — Pakistani news voice agent. you speak, it fetches Dawn headlines and reads them back over a live voice session. Next.js frontend + Python agent on the LiveKit Agents framework; Groq for STT (whisper-large-v3), LLM (llama-3.3-70b), and TTS in one provider. tool-calling for headlines / detail / category filter, with custom rate-limit + interruption rails to keep playback clean. · [repo](https://github.com/rushammm/khabar)
+**Flood segmentation (Prithvi-EO)** — deployed + independently evaluated NASA-IBM''s Prithvi-EO-2.0 foundation model on Sen1Floods11: **0.82 water IoU vs 0.67 NDWI baseline**, plus Grad-CAM for interpretability. live HF demo. · [live](https://huggingface.co/spaces/Rushammm/flood-detection-prithvi-xai) · [repo](https://github.com/rushammm/flood-detection-fm)
 
-**Vision-metric** — measures real-world width/height (mm) of a notebook from a single phone photo. iPhone 12 calibration (0.085 px reprojection error) 
-→ Mask R-CNN segmentation (**val IoU 0.96**) → homography on a credit card reference for mm scale. ·
-[repo](https://github.com/rushammm/vision-metric)
+**Khabar** — Pakistani news voice agent: speak to it, it fetches Dawn headlines and reads them back live. Next.js + Python on LiveKit; Groq STT (whisper-large-v3) / llama-3.3-70b / TTS, with rate-limit + interruption rails. · [repo](https://github.com/rushammm/khabar)
 
-**Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree, Random Forest, Gradient Boosting **implemented from scratch in NumPy**, validated 100% against sklearn. RF hits **78.46%** on held-out 2020–2023. ·
-[repo](https://github.com/rushammm/Healthcare-resource-predictor)
+**Vision-metric** — real-world mm measurement of an object from a single phone photo. iPhone 12 calibration (0.085 px error) -> Mask R-CNN segmentation (**val IoU 0.96**) -> homography on a credit-card reference for scale. · [repo](https://github.com/rushammm/vision-metric)
 
-**Locatepro** — predicts business location suitability with XGBoost + satellite features (sentinel-1, landsat, google earth engine, NDWI, nighttime light). 12,000+ POIs from google places API. **80%+ accuracy**, deployed. · [live](https://poi-next-app.vercel.app/)
+**Healthcare Resource Predictor** — predicts WHO Universal Health Coverage tier (SDG 3.8) from workforce + infrastructure data. Decision Tree / RF / Gradient Boosting **from scratch in NumPy**, 100% matched vs sklearn; **RF 78.46%** on held-out 2020-2023. · [repo](https://github.com/rushammm/Healthcare-resource-predictor)
 
-**Placify** —   a full-stack platform connecting students with companies. Students browse, filter, and apply to internships; companies post listings and manage applicants; admins verify companies and resolve disputes. Role-based access, in-app notifications, and a custom responsive design system. [live](https://placify-iota.vercel.app) 
+**Locatepro** — business-location suitability with XGBoost + satellite features (Sentinel-1, Landsat, Earth Engine, NDWI, nighttime light). 12,000+ POIs from Google Places API. **80%+ accuracy**, deployed. · [live](https://poi-next-app.vercel.app/)
 
+**Placify** — full-stack platform connecting students with companies: browse/filter/apply to internships, company listings + applicant management, admin verification. role-based access, in-app notifications, custom responsive design. · [live](https://placify-iota.vercel.app)
 
 ## tools i use
 
