@@ -8,7 +8,7 @@ ml · geo · cs grad · open to research roles & freelance
 ## research
 
 **Healthcare access in south asia** — ml study of healthcare infrastructure gaps across south asia, **published at ICONIP 2024 (CORE A)**, co-first
-author. supervised by Dr. Usman Nazir (Oxford). · [paper](https://doi.org/10.1007/978-981-96-7036-9_14) · [arxiv](https://arxiv.org/abs/2409.14194)    
+author. · [paper](https://doi.org/10.1007/978-981-96-7036-9_14) · [arxiv](https://arxiv.org/abs/2409.14194)    
 
 **Deep Intelligent Urban Scoring** — GNN approach to business site selection from POI graphs. represents urban regions as graphs (nodes = places, edges   = geographic/functional proximity); the model learns embeddings that flag high-potential business zones, outperforming clustering and traditional spatial analysis on real city POI data.
 
