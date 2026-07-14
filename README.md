@@ -35,10 +35,4 @@ author. · [paper](https://doi.org/10.1007/978-981-96-7036-9_14) · [arxiv](http
   `google earth engine` `qgis` `postgresql` `git`
 
 
-  <div align="center">
-
-  ![](https://streak-stats.demolab.com?user=rushammm&theme=midnight-purple&hide_border=true)
-
-  </div>
-
   open to ml engineering / research roles · published at ICONIP 2024 · based in Pakistan, open to remote
